@@ -1,0 +1,92 @@
+{
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+  },
+  
+  
+  "AdController": {
+      
+      "README": [
+        "To run ads for each network, enter one of the following: 'admob' , 'facebook' ",
+        "⚠️Warning: Facebook does not support OpenAd."
+      ],
+      
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
+      
+      "OpenAdNetwork"      : "admob",
+      
+      "AdInterval"         : 1,
+      
+      "NativeAdRow"        : 0,
+
+      "AdPlacement": {
+        
+        "AdMobBanner"         : "",
+        "AdMobInterstitial"   : "",
+        "AdMobNative"         : "",
+        "AdMobOpenAd"         : "",
+        
+        "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
+        "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
+        "FacebookNative"      : "IMG_16_9_LINK#692961278482629_857100538735368"
+
+      }
+    },
+  
+  "PopAdSetting": {
+    "showPop"  : false,
+    "showClose": false,
+    "adList": [
+      {
+        "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+        "title": "Good new ! we added new app check it !",
+        "button_title": "Install now",
+        "button_url": "https://github.com/saidmotya/"
+      }
+    ]
+  },
+  
+  "AppsPromote": [
+    {
+      "name": "Music Dadju & lyrics Offline",
+      "packageName": "com.Anonyme.Dadju.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/gWsdKTVNf98VuRNUZmcx1Nq_hMEd6rJc_HxoThL3L48j2H3aMGQHf8ezpS50QFFl2w=w240-h480-rw",
+      "download": "+50K"
+    },
+    {
+      "name": "Music RK & Lyrics Offline",
+      "packageName": "com.Ryad.Kartoum.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/x-gjCYLoz-wqaEiLbDDO5vNNoKSeimcXvBEp8oOLvPlqRV-ZlApWSziZ61h0E0H3foU=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Music Maitre Gims & Lyrics",
+      "packageName": "com.Gims.Maitre.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/t0aaN8RpiUL7jOnF6U69M2AG6do5g7wBGvJeH3n_EY6I6jw63OAfcZemS_5ky_QO4w=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "Music Ninho & Lyrics Offline",
+      "packageName": "com.BigPac.Ninho.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/EVqMMgWgCogDcPV6wb_bRO93ND0wdy4TQXlhBACOHojXFklYnATCJXntoPds8WKzl84=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Music Tayc & Lyrics Offline",
+      "packageName": "com.Encorps.Tayc.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/j7ueOLKVAxJMQ1dRCZlhMzLMlZNdFuf53zn9zCj2iWeZ8jP9XW4-27pLbsJTAywyZi0=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Music Aya Nakamura Offline",
+      "packageName": "com.Nakamura.Aya.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/oJUA8aS39NaGMqkk8lVVTptImKVxCH3pEdpfdwCx-Ty9Kc5j7dRmSvSeGTLl2UAdHRb5=w240-h480-rw",
+      "download": "+500 Million"
+    }
+    
+  ]
+  
+}
